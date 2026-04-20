@@ -1,0 +1,20 @@
+[
+  {
+    "answer_type": "baseline",
+    "n_questions": 10,
+    "avg_correctness": 3.7,
+    "avg_faithfulness": 3.1,
+    "avg_completeness": 3.8,
+    "avg_hallucination_rate": 0.18,
+    "total_hallucinations": 9
+  },
+  {
+    "answer_type": "rag",
+    "n_questions": 10,
+    "avg_correctness": 5.0,
+    "avg_faithfulness": 5.0,
+    "avg_completeness": 5.0,
+    "avg_hallucination_rate": 0.0,
+    "total_hallucinations": 0
+  }
+]

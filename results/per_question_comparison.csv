@@ -1,0 +1,11 @@
+question_id,category,question,baseline_correctness,baseline_faithfulness,baseline_completeness,baseline_hallucination_rate,rag_correctness,rag_faithfulness,rag_completeness,rag_hallucination_rate
+Q01,climate,What is the greenhouse effect and how does it contribute to climate change?,3,2,3,0.4,5,5,5,0.0
+Q02,medicine,How do vaccines work to provide immunity against diseases?,4,3,4,0.2,5,5,5,0.0
+Q03,geology,What causes earthquakes and how are they measured?,3,2,3,0.4,5,5,5,0.0
+Q04,medicine,How does the human immune system respond to bacterial infections?,4,3,4,0.2,5,5,5,0.0
+Q05,biology,What is photosynthesis and why is it important for life on Earth?,4,4,4,0.0,5,5,5,0.0
+Q06,astronomy,How do black holes form and what happens at the event horizon?,3,3,4,0.2,5,5,5,0.0
+Q07,biotechnology,What is CRISPR-Cas9 and how is it used in gene editing?,4,3,4,0.2,5,5,5,0.0
+Q08,technology,How does the internet work at a technical level?,4,4,4,0.0,5,5,5,0.0
+Q09,astronomy,What causes the Northern Lights (Aurora Borealis)?,4,4,4,0.0,5,5,5,0.0
+Q10,medicine,How does antibiotic resistance develop in bacteria?,4,3,4,0.2,5,5,5,0.0
